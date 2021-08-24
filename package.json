@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "test": "test",
     "start": "nodemon"
   },
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/DeanSpooner/three-js#readme",
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "three": "^0.131.3"
   }
 }
