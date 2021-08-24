@@ -1,0 +1,23 @@
+{
+  "name": "threejs-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeanSpooner/three-js.git"
+  },
+  "author": "Dean Spooner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeanSpooner/three-js/issues"
+  },
+  "homepage": "https://github.com/DeanSpooner/three-js#readme",
+  "dependencies": {
+    "three": "^0.131.3"
+  }
+}
