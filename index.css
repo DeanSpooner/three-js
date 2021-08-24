@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: #37825f;
+}
+
+canvas {
+  margin: auto;
+  display: block;
+}
