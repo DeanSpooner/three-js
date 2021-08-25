@@ -1,3 +1,4 @@
+import * as THREE from "https://cdn.skypack.dev/pin/three@v0.131.3-QQa34rwf1xM5cawaQLl8/mode=imports,min/optimized/three.js";
 // Creates a scene, like the stage. Container like a div.
 const scene = new THREE.Scene();
 
